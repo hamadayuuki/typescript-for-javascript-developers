@@ -3,10 +3,10 @@
 このリポジトリは、TypeScriptの基礎を理解するために作成したものです。<br>
 使用教材を以下に示します。
 
-###### 使用教材
-Udemy : [ハンズオンで学ぶTypeScript - JavaScript エンジニアのためのTypeScript徹底入門](https://www.udemy.com/course/ts-for-js-developers/)
+## 使用教材
+### Udemy : [ハンズオンで学ぶTypeScript - JavaScript エンジニアのためのTypeScript徹底入門](https://www.udemy.com/course/ts-for-js-developers/)
 
-目次<br>
+#### 目次<br>
 1. 「イントロダクション」から「環境構築 - TypeScriptの実行環境を作ろう」まで (2時間17分) <br>
 2. 基本的な「型」を使ってみよう (3時間46分) <br>
 3. 関数で「型」を使ってみよう (1時間21分) <br>
